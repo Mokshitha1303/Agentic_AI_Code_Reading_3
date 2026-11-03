@@ -1,0 +1,17 @@
+# Course files and working notes (not part of the submission)
+/canvas.pdf
+/CSE598 Fall2026 Lab 9 (Agent Memory).pdf
+/instructions.md
+/notes.md
+
+# Scripts that build the report, and their output
+/build_report.py
+/make_figures.py
+/links_checked.txt
+
+# Python and system junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
