@@ -8,7 +8,7 @@ To keep it concrete, I followed one rule from the lab demo: final grades are rou
 
 ## The report
 
-You can read it here: [CSE598_CodeReading3_Memory_Mokshitha.pdf](CSE598_CodeReading3_Memory_Mokshitha.pdf)
+You can read it here: [Code_Reading_3.pdf](Code_Reading_3.pdf)
 
 The blue labels in the PDF open the exact lines of code I am talking about.
 
@@ -25,7 +25,7 @@ Memories the model cites stay around. Memories nobody uses for 30 days drop out.
 
 ## What is in this repo
 
-- `CSE598_CodeReading3_Memory_Mokshitha.pdf`: my report.
+- `Code_Reading_3.pdf`: my report.
 - `figures/`: the two diagrams from the report.
 - `codex-rs/`: the Codex files I read.
 - `LICENSE` and `NOTICE`: the Codex license files that come with that code.
